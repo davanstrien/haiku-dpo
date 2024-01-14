@@ -1,0 +1,11 @@
+IProgress
+argilla==1.21.0
+cmudict
+datasets
+distilabel
+ipywidgets
+matplotlib :
+nltk
+python-dotenv
+rich[jupyter]
+toolz
