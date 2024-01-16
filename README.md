@@ -43,7 +43,7 @@ Nature's silent truth.
 ```
 
 
-This repository contains the code used to generate the [Synthetic Haiku DPO](https://huggingface.co/datasets/argilla/synthetic-haiku-dpo) dataset, a dataset of synthetic haiku generated using [Distilabel](https://github.com/argilla-io/distilabel). 
+This repository contains the code used to generate the [Synthetic Haiku DPO](https://huggingface.co/datasets/davanstrien/haiku_dpo) dataset, a dataset of synthetic haiku generated using [Distilabel](https://github.com/argilla-io/distilabel). 
 
 The goal of this repo is to help the author explore the process of using synthetic data to train a model for direct preference optimization (DPO). 
 
