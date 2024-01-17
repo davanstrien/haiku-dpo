@@ -15,7 +15,7 @@
 
 A current request for a haiku looks like when using the [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) model looks like this:
 
-```bash
+```
 >>> Write a haiku about moss.
 Mosses soft, green and shining,
 Gracefully drifting in the breeze,
@@ -26,7 +26,7 @@ This has some of the properties of a traditional haiku (as expressed in the Engl
 
 What happens if we do a little prompt engineering and ask the model to write a haiku with a 5, 7, 5 syllable pattern? 
 
-```bash
+```
 >>> Write a haiku about moss. Follow the traditional 5-7-5 syllable pattern.
 Mosses, tiny green eyes, inchworm life,
 Growing tall, they're hard to see,
@@ -35,7 +35,7 @@ Syllables flow, as the world moves by: haiku of life.
 
 Prompt engineering didn't help use here. What if we use a slightly larger model? The [teknium/OpenHermes-2.5-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) model is a 7B parameter model, which I've found to perform very well for many tasks. 
 
-```bash
+```
 >>> Write a haiku about moss. Follow the traditional 5-7-5 syllable pattern.
 Moss, soft emerald hue,
 Creeps on stone, whispers secrets -
