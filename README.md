@@ -61,7 +61,7 @@ The next step will involve
 
 ## 📚 Notebooks
 
-If there is interest, I'll tidy all the notebooks up and make them available.
+These notebooks work through the first few stages of this project; the end result is a DPO dataset. The plan is to also add notebooks for the other stages over time. 
 
 1. [01_generate_haiku_prompts.ipynb](01_generate_haiku_prompts.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/haiku-dpo/blob/main/01_generate_haiku_prompts.ipynb) -  This notebook contains code for generating haiku prompts using [Distilabel](https://github.com/argilla-io/distilabel)
 2. [02_generate_haiku.ipynb](02_generate_haiku.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/haiku-dpo/blob/main/02_generate_haiku.ipynb)  -  This notebook generates the actual haiku
