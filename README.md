@@ -63,7 +63,9 @@ The next step will involve
 
 If there is interest, I'll tidy all the notebooks up and make them available.
 
-1. [01_generate_haiku_prompts.ipynb](01_generate_haiku_prompts.ipynb) - This notebook contains code for generating haiku prompts using [Distilabel](https://github.com/argilla-io/distilabel)
+1. [01_generate_haiku_prompts.ipynb](01_generate_haiku_prompts.ipynb) |  - This notebook contains code for generating haiku prompts using [Distilabel](https://github.com/argilla-io/distilabel)
+2. [02_generate_haiku.ipynb](02_generate_haiku.ipynb) - This notebook generates the actual haiku
+3. [03_rule_based_ranking.ipynb](03_rule_based_ranking.ipynb) - This notebook carries out the rule based ranking of the generated haiku. 
 
 
 
